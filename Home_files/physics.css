@@ -69,7 +69,8 @@
 }
 
 .tutor-intro-card__name {
-    font-size: 28px;
+    font-size: 30px;
+    line-height: 1.2;
 }
 
 .tutor-intro-card__text {
