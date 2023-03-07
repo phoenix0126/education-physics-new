@@ -1,23 +1,88 @@
-
-.physics-check-list {
-    list-style: none;
-    padding: 0 0 0 24px;
-    margin: 10px 0 30px 0;
-}
-
-.physics-check-list li {
-    background: url('./img/physics/blue-tick.png') no-repeat left top;
-    background-size: 40px;
-    min-height: 40px;
-    padding-left: 55px;
-    padding-top: 2px;
-    margin-bottom: 17px;
-    font-size: 18px;
-    font-weight: normal;
-}
-
-@media screen and (max-width: 767px) {
-    .physics-check-list {
-        padding-left: 0;
-    }
-}
+
+
+.physics-check-list {
+
+    list-style: none;
+
+    padding: 0 0 0 24px;
+
+    margin: 10px 0 30px 0;
+
+}
+
+
+
+.physics-check-list li {
+
+    background: url('./img/physics/blue-tick.png') no-repeat left top;
+
+    background-size: 40px;
+
+    min-height: 40px;
+
+    padding-left: 55px;
+
+    padding-top: 2px;
+
+    margin-bottom: 17px;
+
+    font-size: 18px;
+
+    font-weight: normal;
+
+}
+
+
+
+@media screen and (max-width: 767px) {
+
+    .physics-check-list {
+
+        padding-left: 0;
+
+    }
+
+}
+
+.chemistry-top-banner__text {
+    top: 10px;
+    bottom: auto;
+    left: 30px;
+    max-width: 390px;
+    font-size: 45px;
+    font-weight: 700;
+    color: black;
+    background-color: rgba(255,255,255,0.8);
+}
+
+.wp-google-btn-image {
+    background: url(img/reviews/google-rating-btn-sm.png) 0 0/contain no-repeat;
+}
+
+.tutor-intro-card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+ }
+ 
+ .tutor-intro-card__main {
+    width: 50%;
+ }
+ 
+ .tutor-intro-card__name {
+    font-size: 28px;
+ }
+ 
+ .tutor-intro-card__text {
+    font-family: Century;
+    font-size: 28px;
+    color: #010506;
+    line-height: 15px;
+    margin-top: 20px;
+ }
+
+
+ .s-blog-banner--custom1 .s-blog-banner__text {
+    max-width: 220px;
+ }
