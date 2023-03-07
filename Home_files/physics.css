@@ -68,6 +68,10 @@
     width: 50%;
 }
 
+.tutor-intro-card-reverse .tutor-intro-card__main{
+    margin-left: 27px;
+}
+
 .tutor-intro-card__name {
     font-size: 30px;
     line-height: 1.2;
